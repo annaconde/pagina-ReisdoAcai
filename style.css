@@ -1,0 +1,163 @@
+body {
+    background-color: #615f5f;
+    
+}
+
+#acaiFlutuante {
+    position: absolute;
+    margin: 8% 0 0 15%;
+    opacity: 0.7;
+
+}
+
+@font-face {
+    font-family: 'Adlery';
+    src: url('fontes/adlery-pro.regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BreeSerif';
+    src: url('fontes/BreeSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.titulo {
+    font-family: Adlery;
+    font-size: 2.5em;
+    margin: 0 0 50px 50px;
+    color: #4073cb;
+    line-height: 15px;
+    position: absolute;
+
+
+}
+#tituloParte {
+    color: #d11b9e;
+    margin: 0 0 0 50px;
+   
+
+}
+#acaiNaTigela {
+    position: absolute;
+    height: 120px;
+    margin: 75px 0 0 220px ;
+
+}
+#cardapio {
+    font-family: BreeSerif;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    margin: 40px 0 0 85%;
+    border: 3px solid black;
+    background-color: #460335;
+    border-radius: 30px;
+    padding: 18px;
+    text-decoration: none;
+    
+}
+#cardapio:hover {
+    background-color: #8c1169;
+    transition: 0.3s all;
+}
+#acaiCopo {
+    position: absolute;
+    margin: 8% 0 0 62%;
+    width: 450px;
+
+}
+p {
+    font-family: BreeSerif;
+    font-size: 23px;
+    text-align: center;
+    color: #bbceee;
+    position: absolute;
+    margin: 17% 0 0 10%;
+    line-height: 20px;
+    max-width: 500px;
+    
+}
+
+#coracao {
+    transform: rotate(320deg);
+    position: absolute;
+    margin: 28% 0 0 5%;
+    width: 70px;
+    
+}
+
+#coracaoI {
+    transform: rotate(50deg);
+    position: absolute;
+    margin: 15% 0 0 43% ;
+    width: 70px;
+    
+}
+
+#endereco {
+    color: white;
+    bottom: 70px;
+    font-size: 26px;
+    position: absolute;
+    margin: 40% 0 0 5%;
+}
+
+#mapa {
+    position: absolute;
+    margin: 43% 0 0 5%;
+    width: 750px;
+    height: 150px;
+    padding: 0 0 20px;
+
+}
+
+#siga {
+    position: absolute;
+    margin: 41% 0 0 60% ;
+    color: #460335;
+}
+
+#insta {
+    position: absolute;
+    width: 80px;
+    margin: 43.5% 0 0 68%;
+}
+
+#instaReis {
+    font-family: BreeSerif;
+    font-size: 23px;
+    color: #bbceee;
+    position: absolute;
+    margin: 44.5% 0 0 73% ;
+
+}
+
+#instaReis:hover {
+    color: white;
+    transition: 0.3s all;
+
+}
+
+#contato {
+    position: absolute;
+    margin: 48% 0 0 60% ;
+    color: #460335;
+}
+
+#whatz {
+    position: absolute;
+    margin: 51% 0 0 68%;
+    width: 70px;
+}
+
+#whatzReis {
+    font-family: BreeSerif;
+    font-size: 23px;
+    color: #bbceee;
+    position: absolute;
+    margin: 52% 0 0 72%;
+    
+}   
+
